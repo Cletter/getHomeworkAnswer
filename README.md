@@ -14,7 +14,7 @@
 
 打开作业界面,复制网址
 
-比如http://elearning.njmu.edu.cn/g2s/CourseLive/Test/DoCardExercise?TestID=**11086**
+比如http://elearning.njmu.edu.cn/g2s/CourseLive/Test/DoCardExercise?TestID=11086
 
 所以这份作业的ID为11086
 
