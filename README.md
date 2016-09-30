@@ -24,6 +24,6 @@
 
 使用Chrome内核的浏览器
 
-![题目id](http://od2jzismk.bkt.clouddn.com/id.gif)
+[gif动画教程]](http://od2jzismk.bkt.clouddn.com/id.gif)
 
 如图所示,题目id为401754
